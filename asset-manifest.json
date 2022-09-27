@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Cutetastic/static/css/main.073c9b0a.css",
-    "main.js": "/Cutetastic/static/js/main.7d89404a.js",
+    "main.js": "/Cutetastic/static/js/main.44fb9a4d.js",
     "static/js/787.d1d4a2c2.chunk.js": "/Cutetastic/static/js/787.d1d4a2c2.chunk.js",
     "index.html": "/Cutetastic/index.html",
     "main.073c9b0a.css.map": "/Cutetastic/static/css/main.073c9b0a.css.map",
-    "main.7d89404a.js.map": "/Cutetastic/static/js/main.7d89404a.js.map",
+    "main.44fb9a4d.js.map": "/Cutetastic/static/js/main.44fb9a4d.js.map",
     "787.d1d4a2c2.chunk.js.map": "/Cutetastic/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7d89404a.js"
+    "static/js/main.44fb9a4d.js"
   ]
 }
